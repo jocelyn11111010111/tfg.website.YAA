@@ -432,8 +432,3 @@ footer{
     color: grey;
 }
 
-@media screen and (max-device-width: 768px){
-body{
-    background-color: #F6F2EF;
-}
-}
