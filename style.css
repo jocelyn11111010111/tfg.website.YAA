@@ -25,7 +25,8 @@ header{
 }
 
 .background_image{
-    background-image: url('../headerbackground.png');
+    /*background-image: url('../headerbackground.png');*/
+    background-color: #6F635D;
     box-sizing: border-box;
     max-width:100%;
     height: 100%;
