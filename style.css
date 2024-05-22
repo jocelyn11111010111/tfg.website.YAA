@@ -55,16 +55,7 @@ footer{
 
 .CenTer{
     text-align: center;
-    border: 1px #F6F2EF solid;
-    background-color: #F6F2EF;
-    /*margin: 120px 475px 150px 475px;*/
-    margin-top: 120px;
-    margin-left: 50%;
-    transform: translateX(-50%);
-    border-radius: 30px;
-    text-align: center;
-    padding: 100px 50px 100px 50px;
-
+    /*transform: translateX(-50%);*/
 }
 
 .contacttitle{
