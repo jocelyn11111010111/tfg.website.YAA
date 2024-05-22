@@ -54,6 +54,7 @@ footer{
 }
 
 .CenTer{
+    text-align: center;
     border: 1px #F6F2EF solid;
     background-color: #F6F2EF;
     /*margin: 120px 475px 150px 475px;*/
