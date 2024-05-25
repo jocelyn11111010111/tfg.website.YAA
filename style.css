@@ -423,3 +423,12 @@ footer{
     color: grey;
 }
 
+@media screen and (max-device-width: 768px){
+    .largerone{
+	     /*比h1更大*/
+	    font-size: 10vw;
+	    font-family: "Microsoft JhengHei", "MingLiU";
+	    display: inline;
+	    padding: 0 0 0 50px; 
+    }
+}
