@@ -595,6 +595,7 @@ footer{
 	    border-radius: 3rem;
 	    color: #6f635d;
 	    cursor: pointer;
+	    margin-left: 20px;
     }
   
     .btncard:active {
@@ -614,12 +615,15 @@ footer{
 	    color: grey;
     }
 
-.iconN{
-	    width: 70px;
-	    height: 70px;
+    .iconN{
+	    width: 50px;
+	    height: 50px;
 	    margin-top: 20px;
 	    margin-left: 25px;
 
-}
+    }
+    .upbtn{
+	    margin-bottom: 40px;
+    }
 	
 }
