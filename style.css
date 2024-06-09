@@ -226,7 +226,7 @@ footer{
     height: 1px;
     border-radius: 30px;
     background: #6F635D;
-    border: 0px #F6F2EF solid;
+    border: 2px #6F635D solid;
     box-shadow: 15px 15px 30px #bebebe, -15px -15px 30px #ffffff;
 
     margin: 0 auto;
