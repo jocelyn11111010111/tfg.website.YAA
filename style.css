@@ -254,7 +254,7 @@ footer{
     margin: 45px;
 }
 
-/*.card1-1{
+.card1-1{
 
     width: 240px;
     height: 320px;
@@ -267,7 +267,7 @@ footer{
     flex-shrink: 0;
     margin: 45px;
 }
-
+/*
 .card1-2{
 
     width: 240px;
