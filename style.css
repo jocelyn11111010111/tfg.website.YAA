@@ -244,6 +244,7 @@ footer{
     width: 240px;
     height: 320px;
     border-radius: 30px;
+    border: 2px #6F635D solid;
     background: #D1CAC1;
     border: 0px #F6F2EF solid;
     box-shadow: 15px 15px 30px #bebebe, -15px -15px 30px #ffffff;
@@ -259,6 +260,7 @@ footer{
     width: 240px;
     height: 320px;
     border-radius: 30px;
+    border: 2px #6F635D solid;
     background: #D1CAC1;
     border: 0px #F6F2EF solid;
     box-shadow: 15px 15px 30px #bebebe, -15px -15px 30px #ffffff;
@@ -273,6 +275,7 @@ footer{
     width: 240px;
     height: 320px;
     border-radius: 30px;
+    border: 2px #6F635D solid;
     background: #D1CAC1;
     border: 0px #F6F2EF solid;
     box-shadow: 15px 15px 30px #bebebe, -15px -15px 30px #ffffff;
@@ -287,6 +290,7 @@ footer{
     width: 240px;
     height: 320px;
     border-radius: 30px;
+    border: 2px #6F635D solid;
     background: #D1CAC1;
     border: 0px #F6F2EF solid;
     box-shadow: 15px 15px 30px #bebebe, -15px -15px 30px #ffffff;
@@ -301,6 +305,7 @@ footer{
     width: 240px;
     height: 320px;
     border-radius: 30px;
+    border: 2px #6F635D solid;
     background: #D1CAC1;
     border: 0px #F6F2EF solid;
     box-shadow: 15px 15px 30px #bebebe, -15px -15px 30px #ffffff;
@@ -316,6 +321,7 @@ footer{
     width: 240px;
     height: 320px;
     border-radius: 30px;
+    border: 2px #6F635D solid;
     background: #D1CAC1;
     border: 0px #F6F2EF solid;
     box-shadow: 15px 15px 30px #bebebe, -15px -15px 30px #ffffff;
@@ -330,6 +336,7 @@ footer{
     width: 240px;
     height: 320px;
     border-radius: 30px;
+    border: 2px #6F635D solid;
     background: #D1CAC1;
     border: 0px #F6F2EF solid;
     box-shadow: 15px 15px 30px #bebebe, -15px -15px 30px #ffffff;
@@ -344,6 +351,7 @@ footer{
     width: 240px;
     height: 320px;
     border-radius: 30px;
+    border: 2px #6F635D solid;
     background: #D1CAC1;
     border: 0px #F6F2EF solid;
     box-shadow: 15px 15px 30px #bebebe, -15px -15px 30px #ffffff;
@@ -358,6 +366,7 @@ footer{
     width: 240px;
     height: 320px;
     border-radius: 30px;
+    border: 2px #6F635D solid;
     background: #D1CAC1;
     border: 0px #F6F2EF solid;
     box-shadow: 15px 15px 30px #bebebe, -15px -15px 30px #ffffff;
@@ -372,6 +381,7 @@ footer{
     width: 240px;
     height: 320px;
     border-radius: 30px;
+    border: 2px #6F635D solid;
     background: #D1CAC1;
     border: 0px #F6F2EF solid;
     box-shadow: 15px 15px 30px #bebebe, -15px -15px 30px #ffffff;
@@ -386,6 +396,7 @@ footer{
     width: 240px;
     height: 320px;
     border-radius: 30px;
+    border: 2px #6F635D solid;
     background: #D1CAC1;
     border: 0px #F6F2EF solid;
     box-shadow: 15px 15px 30px #bebebe, -15px -15px 30px #ffffff;
@@ -397,7 +408,7 @@ footer{
 
 .btncard{    
     background-color: #efeae6;
-    border: 0px;/*none*/
+    border: 2px #6F635D solid;
     padding: 15px;
     font-size: 1rem;
     width: 180px;
