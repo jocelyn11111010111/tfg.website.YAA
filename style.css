@@ -310,10 +310,10 @@ footer{
     color: grey;
 }
 
-/*@media screen and (max-width: 768px){
+@media screen and (max-width: 768px){
     .largerone{
 	    font-size: 10vw  !important;
 	    padding: 0 0 0 50px  !important; 
     }
 	
-}*/
+}
